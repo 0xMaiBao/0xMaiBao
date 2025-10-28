@@ -15,7 +15,7 @@
   </h3>
   
   <p>
-    <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+    <i>"Phòng thủ là liên tục, tấn công chỉ cần thành công một lần."</i>
   </p>
 
 </div>
@@ -26,17 +26,16 @@
   <tr>
     <td width="60%" valign="top">
       
-### 👾 Về mình
-<p>
-  Mình là sinh viên năm <b>[Năm 1/2/3/4]</b> tại <b>[Tên trường của bạn]</b>. Mình có đam mê lớn với Cybersecurity và thích "phá vỡ" mọi thứ (một cách có đạo đức!) để tìm hiểu cách chúng hoạt động và làm thế nào để bảo vệ chúng tốt hơn.
-</p>
-
-<ul>
-  <li>🎓 Hiện đang "cày cuốc" chủ đề: <b>[Chủ đề bạn đang học, vd: Web Security, Reverse Engineering]</b></li>
-  <li>💻 Dành thời gian rảnh để "chiến" CTF trên: <b>[TryHackMe]</b> và <b>[Hack The Box]</b>.</li>
-  <li>🔭 Đang mày mò xây dựng một <b>[Tên dự án cá nhân, vd: Xây dựng Honeypot, Tool scan lỗ hổng...]</b></li>
-  <li>🎯 Đang tìm kiếm cơ hội thực tập về <b>[Lĩnh vực mong muốn, vd: Pentest, SOC Analyst]</b></li>
-</ul>
+      <h3>👾 Về mình</h3>
+      <p>
+        Mình là sinh viên năm <b>[Năm 1/2/3/4]</b> tại <b>[Tên trường của bạn]</b>. Mình có đam mê lớn với Cybersecurity và thích "phá vỡ" mọi thứ (một cách có đạo đức!) để tìm hiểu cách chúng hoạt động và làm thế nào để bảo vệ chúng tốt hơn.
+      </p>
+      <ul>
+        <li>🎓 Hiện đang "cày cuốc" chủ đề: <b>[Chủ đề bạn đang học, vd: Web Security, Reverse Engineering]</b></li>
+        <li>💻 Dành thời gian rảnh để "chiến" CTF trên: <b>[TryHackMe]</b> và <b>[Hack The Box]</b>.</li>
+        <li>🔭 Đang mày mò xây dựng một <b>[Tên dự án cá nhân, vd: Xây dựng Honeypot, Tool scan lỗ hổng...]</b></li>
+        <li>🎯 Đang tìm kiếm cơ hội thực tập về <b>[Lĩnh vực mong muốn, vd: Pentest, SOC Analyst]</b></li>
+      </ul>
 
     </td>
     <td width="40%" valign="top">
@@ -57,7 +56,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   </a>
-  
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   </a>
@@ -70,19 +68,13 @@
   <a href="https://nmap.org/" target="_blank">
     <img src="https://img.shields.io/badge/Nmap-00A9E0?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   </a>
-  <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
 </p>
 
 ---
 
 ### 🏆 Chứng chỉ & Thành tích
 
-Đây là nơi mình khoe các chứng chỉ đã đạt được. (Cách này rất dễ để thêm các chứng chỉ mới!)
+Đây là nơi mình khoe các chứng chỉ đã đạt được.
 
 <p align="center">
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KXMR0TRRXP.pdf" target="_blank">
@@ -94,24 +86,30 @@
 ---
 
 ### 📊 Thống kê "thành tích"
-(Hãy thay `YOUR_GITHUB_USERNAME` bằng tên GitHub của bạn nhé)
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedork&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies"
+  />
+</p>
 
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&rank_icon=github&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" 
     alt="GitHub Stats"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" 
     alt="Top Languages"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dracula" 
+    src="https://github-readme-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" 
     alt="GitHub Streak"
   />
 </p>
