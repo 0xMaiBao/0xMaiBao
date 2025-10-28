@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=0xMaiBao&style=flat-square&color=blue" alt="Profile views"/>
   
   <br><br>
 
@@ -70,31 +70,30 @@
 ---
 
 ### 📊 Thống kê "thành tích"
-(Hãy thay `YOUR_GITHUB_USERNAME` bằng tên GitHub của bạn nhé)
 
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&rank_icon=github&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=0xMaiBao&show_icons=true&theme=dracula&rank_icon=github&count_private=true" 
     alt="GitHub Stats"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMaiBao&layout=compact&theme=dracula" 
     alt="Top Languages"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dracula" 
+    src="https://github-readme-streak-stats.vercel.app/?user=0xMaiBao&theme=dracula" 
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0xMaiBao&theme=react-dark&hide_border=true&area=true" 
     alt="Contribution Graph"
     width="100%"
   />
