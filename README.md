@@ -75,7 +75,7 @@
   
   <img 
     height="180em" 
-    src="https://github-readme-streak-stats.vercel.app/?user=0xMaiBao&theme=cyberpunk" 
+    src="https://github-readme-streak-stats.vercel.app/?user=0xMaiBao&theme=tokyonight" 
     alt="GitHub Streak"
   />
 </p>
