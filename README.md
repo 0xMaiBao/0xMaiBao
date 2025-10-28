@@ -39,7 +39,9 @@
 
     </td>
     <td width="40%" valign="top">
+      
       <img src="https://media.giphy.com/media/10zxivpfApASoU/giphy.gif" alt="Hacker Matrix GIF" width="100%" />
+    
     </td>
   </tr>
 </table>
