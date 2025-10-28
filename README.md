@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=0xMaiBao&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
   
   <br><br>
 
@@ -69,31 +69,44 @@
 
 ---
 
+### 🏆 Chứng chỉ & Thành tích
+
+Đây là nơi mình khoe các chứng chỉ đã đạt được. (Cách này rất dễ để thêm các chứng chỉ mới!)
+
+<p align="center">
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KXMR0TRRXP.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Complete_Beginner-88A111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Complete Beginner Path"/>
+  </a>
+  
+  </p>
+---
+
 ### 📊 Thống kê "thành tích"
+(Hãy thay `YOUR_GITHUB_USERNAME` bằng tên GitHub của bạn nhé)
 
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=0xMaiBao&show_icons=true&theme=dracula&rank_icon=github&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&rank_icon=github&count_private=true" 
     alt="GitHub Stats"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMaiBao&layout=compact&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" 
     alt="Top Languages"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-streak-stats.vercel.app/?user=0xMaiBao&theme=dracula" 
+    src="https://github-readme-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dracula" 
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=0xMaiBao&theme=react-dark&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" 
     alt="Contribution Graph"
     width="100%"
   />
@@ -103,7 +116,7 @@
 
 ### 🔗 Kết nối với mình
 
-Đừng ngại "ping" mình!
+Đừng ngại "ping" mình! (Hãy thay `#` bằng link profile của bạn nhé)
 
 <p align="center">
   <a href="[Link LinkedIn của bạn]" target="_blank">
@@ -115,10 +128,10 @@
   <a href="mailto:[Email của bạn]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[Link TryHackMe của bạn]" target="_blank">
+  <a href="[Link profile TryHackMe của bạn, vd: https://tryhackme.com/p/TenCuaBan]" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-88A111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
-  <a href="[Link Hack The Box của bạn]" target="_blank">
+  <a href="[Link profile Hack The Box của bạn]" target="_blank">
     <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" alt="Hack The Box"/>
   </a>
 </p>
