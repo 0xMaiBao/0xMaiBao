@@ -27,15 +27,23 @@
 
 <span style="color: #36F700;">(student@cybersec-verse)</span><span style="color: #ffffff;">:</span><span style="color: #00A9E0;">~</span><span style="color: #ffffff;">$</span> ls ./toolbox
 
-<span style="color: #ffffff;">></span> <b>Ngôn ngữ:</b>
-<span style="color: #ffffff;">></span>   ├── <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<span style="color: #ffffff;">></span>   └── <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<span style="color: #ffffff;">></span> <b>Ngôn ngữ (Languages):</b>
+<span style="color: #ffffff;">></span>   ├── ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<span style="color: #ffffff;">></span>   └── ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <span style="color: #ffffff;">></span> 
-<span style="color: #ffffff;">></span> <b> Công cụ & Môi trường:</b>
-<span style="color: #ffffff;">></span>   ├── <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-<span style="color: #ffffff;">></span>   ├── <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-<span style="color: #ffffff;">></span>   ├── <img src="https://img.shields.io/badge/Nmap-00A9E0?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
-<span style="color: #ffffff;">></span>   └── <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<span style="color: #ffffff;">></span> <b>Nền tảng & Công cụ (Software & Platforms):</b>
+<span style="color: #ffffff;">></span>   ├── ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burp-suite&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![Nmap](https://img.shields.io/badge/Nmap-00A9E0?style=flat-square&logo=nmap&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<span style="color: #ffffff;">></span>   ├── ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<span style="color: #ffffff;">></span>   └── ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 <span style="color: #36F700;">(student@cybersec-verse)</span><span style="color: #ffffff;">:</span><span style="color: #00A9E0;">~</span><span style="color: #ffffff;">$</span> cat ./achievements.log
@@ -55,3 +63,13 @@
 <span style="color: #36F700;">(student@cybersec-verse)</span><span style="color: #ffffff;">:</span><span style="color: #00A9E0;">~</span><span style="color: #ffffff;">$</span> █
 </code></pre>
 </div>
+
+<h3 align="center">📊 Thống kê Hoạt động 📊</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xMaiBao&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMaiBao&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMaiBao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
