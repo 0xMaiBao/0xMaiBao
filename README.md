@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36F700&center=true&vCenter=true&width=435&lines=Ch%C3%A0o!+M%C3%ACnh+l%C3%A0+[Tên của bạn];Cybersecurity+Student;Ethical+Hacker;CTF+Player" 
-    alt="Hi, I'm [Your Name]" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36F700&center=true&vCenter=true&width=435&lines=Ch%C3%A0o!+M%C3%ACnh+l%C3%A0+BaodDarius;Cybersecurity+Student;Ethical+Hacker;CTF+Player" 
+    alt="Hi, I'm BaoDarius" 
   />
 </div>
 
