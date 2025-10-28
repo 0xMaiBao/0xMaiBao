@@ -55,28 +55,3 @@
 <span style="color: #36F700;">(student@cybersec-verse)</span><span style="color: #ffffff;">:</span><span style="color: #00A9E0;">~</span><span style="color: #ffffff;">$</span> █
 </code></pre>
 </div>
-
----
-
-<h3 align="center">📊 Thống kê Hoạt động 📊</h3>
-
-<p align="center">
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=0xMaiBao&show_icons=true&theme=cyberpunk&rank_icon=github&count_private=true" 
-    alt="GitHub Stats"
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMaiBao&layout=compact&theme=cyberpunk" 
-    alt="Top Languages"
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-streak-stats.vercel.app/?user=0xMaiBao&theme=tokyonight" 
-    alt="GitHub Streak"
-  />
-</p>
