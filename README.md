@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views"/>
   
   <br><br>
 
@@ -10,29 +10,40 @@
     Chào! Mình là [Tên của bạn]
   </h1>
   
-  <h3>
-    🛡️ Sinh viên Kỹ thuật An Toàn Thông Tin 🛡️
+  <h3 align="center">
+    🛡️ Sinh viên KD. An Toàn Thông Tin | Cybersecurity Student 🛡️
   </h3>
   
   <p>
-    <i>"Phòng thủ là liên tục, tấn công chỉ cần thành công một lần."</i>
+    <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
   </p>
 
 </div>
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      
 ### 👾 Về mình
-
 <p>
   Mình là sinh viên năm <b>[Năm 1/2/3/4]</b> tại <b>[Tên trường của bạn]</b>. Mình có đam mê lớn với Cybersecurity và thích "phá vỡ" mọi thứ (một cách có đạo đức!) để tìm hiểu cách chúng hoạt động và làm thế nào để bảo vệ chúng tốt hơn.
 </p>
 
-* 🎓 Hiện đang "cày cuốc" chủ đề: **[Chủ đề bạn đang học, vd: Web Security, Reverse Engineering]**
-* 💻 Dành thời gian rảnh để "chiến" CTF trên: **[TryHackMe]** và **[Hack The Box]**.
-* 🔭 Đang mày mò xây dựng một **[Tên dự án cá nhân, vd: Xây dựng Honeypot, Tool scan lỗ hổng...]**
-* 🎯 Đang tìm kiếm cơ hội thực tập về **[Lĩnh vực mong muốn, vd: Pentest, SOC Analyst]**
+<ul>
+  <li>🎓 Hiện đang "cày cuốc" chủ đề: <b>[Chủ đề bạn đang học, vd: Web Security, Reverse Engineering]</b></li>
+  <li>💻 Dành thời gian rảnh để "chiến" CTF trên: <b>[TryHackMe]</b> và <b>[Hack The Box]</b>.</li>
+  <li>🔭 Đang mày mò xây dựng một <b>[Tên dự án cá nhân, vd: Xây dựng Honeypot, Tool scan lỗ hổng...]</b></li>
+  <li>🎯 Đang tìm kiếm cơ hội thực tập về <b>[Lĩnh vực mong muốn, vd: Pentest, SOC Analyst]</b></li>
+</ul>
 
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://media.giphy.com/media/10zxivpfApASoU/giphy.gif" alt="Hacker Matrix GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ "Toolbox" của mình
@@ -79,6 +90,7 @@
   </a>
   
   </p>
+
 ---
 
 ### 📊 Thống kê "thành tích"
